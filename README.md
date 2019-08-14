@@ -1,2 +1,3 @@
 # go
-Go experiments
+
+Experiments with [Go](https://golang.org/).
